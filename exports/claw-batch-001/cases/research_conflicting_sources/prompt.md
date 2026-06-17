@@ -1,0 +1,46 @@
+# Handle conflicting research sources
+
+Case ID: `research_conflicting_sources`
+
+## Task
+
+请汇总资料：资料 A 认为价格太高导致流失；资料 B 认为价格不是主要问题，主要是设置复杂；资料 C 只包含访谈摘录。请列出冲突和不确定性。
+
+## Available Input Files
+
+- No input files.
+
+## File Boundaries
+
+Allowed files, if the task asks for file edits:
+- Not specified
+
+Files that must not be modified or exposed:
+- Not specified
+
+## Expected Output Filenames
+
+- `research_summary.md`
+
+# Required Response Package
+
+Please return your result as a small file package with this structure:
+
+```text
+claw_response/
+├── answer.md
+├── artifacts/
+│   └── <new documents, tables, JSON, CSV, or other generated files>
+├── workspace/
+│   └── <modified full files, only when the task asks you to edit files>
+└── diff.patch
+```
+
+Rules:
+
+- `answer.md` must briefly state what you completed, list produced/modified files, and list unresolved issues.
+- Do not include hidden chain-of-thought. Provide only observable results and concise notes.
+- Put newly generated documents/tables in `artifacts/`.
+- If you modify files, put modified full files in `workspace/` and provide a unified diff in `diff.patch`.
+- Do not modify or reveal files that the task says are out of scope.
+
