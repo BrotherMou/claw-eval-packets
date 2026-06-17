@@ -7,11 +7,11 @@
 
 ## Start Here
 
-Read `prompt.md` in this folder.
+Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/confirm_user_rejects/prompt.md
 
 ## Files
 
-- `inputs/workspace/report.md`
+- [`inputs/workspace/report.md`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/confirm_user_rejects/inputs/workspace/report.md)
 
 ## Response
 

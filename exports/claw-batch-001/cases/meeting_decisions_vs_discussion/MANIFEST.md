@@ -7,7 +7,7 @@
 
 ## Start Here
 
-Read `prompt.md` in this folder.
+Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/meeting_decisions_vs_discussion/prompt.md
 
 ## Files
 

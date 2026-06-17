@@ -7,7 +7,7 @@
 
 ## Start Here
 
-Read `prompt.md` in this folder.
+Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/table_markdown_output/prompt.md
 
 ## Files
 

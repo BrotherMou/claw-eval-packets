@@ -7,11 +7,11 @@
 
 ## Start Here
 
-Read `prompt.md` in this folder.
+Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/recover_partial_artifact/prompt.md
 
 ## Files
 
-- `inputs/workspace/partial_report.md`
+- [`inputs/workspace/partial_report.md`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/recover_partial_artifact/inputs/workspace/partial_report.md)
 
 ## Response
 
