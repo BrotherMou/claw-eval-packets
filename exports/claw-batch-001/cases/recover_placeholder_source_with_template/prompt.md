@@ -1,14 +1,14 @@
-# Generate a Markdown table with missing values preserved
+# Recover from placeholder source notes with a template
 
-Case ID: `table_markdown_output`
+Case ID: `recover_placeholder_source_with_template`
 
 ## Task
 
-请将客户状态整理为 Markdown 表格：Acme active owner Li；Beta paused owner unknown；Core active owner Wang。未知负责人请写 unknown，不要丢行。
+source_notes.md 只有占位内容。请不要假装已经读到业务材料；记录失败原因，并输出 fallback_summary.md 和 recovery_note.md，给出可继续收集资料的模板。请在 recovery_note.md 中写清失败原因、降级处理和后续需要。
 
 ## Available Input Files
 
-- No input files.
+- `inputs/workspace/source_notes.md`
 
 ## File Boundaries
 
@@ -20,7 +20,8 @@ Files that must not be modified or exposed:
 
 ## Expected Output Filenames
 
-- `customer_table.md`
+- `fallback_summary.md`
+- `recovery_note.md`
 
 # Required Response Package
 

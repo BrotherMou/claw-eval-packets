@@ -1,26 +1,27 @@
-# Generate a Markdown table with missing values preserved
+# Add reorder flags to an allowed inventory CSV
 
-Case ID: `table_markdown_output`
+Case ID: `edit_csv_inventory_thresholds`
 
 ## Task
 
-请将客户状态整理为 Markdown 表格：Acme active owner Li；Beta paused owner unknown；Core active owner Wang。未知负责人请写 unknown，不要丢行。
+请只修改 inventory.csv：新增 reorder_needed 列，用 yes/no 标出 on_hand 是否低于 reorder_point；保持三条 SKU 的原顺序。不要修改 supplier_notes.md。
 
 ## Available Input Files
 
-- No input files.
+- `inputs/workspace/inventory.csv`
+- `inputs/workspace/supplier_notes.md`
 
 ## File Boundaries
 
 Allowed files, if the task asks for file edits:
-- Not specified
+- `inventory.csv`
 
 Files that must not be modified or exposed:
-- Not specified
+- `supplier_notes.md`
 
 ## Expected Output Filenames
 
-- `customer_table.md`
+- `inventory.csv`
 
 # Required Response Package
 

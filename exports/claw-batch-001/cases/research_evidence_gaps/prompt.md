@@ -1,10 +1,10 @@
-# Generate a Markdown table with missing values preserved
+# Summarize evidence while preserving information gaps
 
-Case ID: `table_markdown_output`
+Case ID: `research_evidence_gaps`
 
 ## Task
 
-请将客户状态整理为 Markdown 表格：Acme active owner Li；Beta paused owner unknown；Core active owner Wang。未知负责人请写 unknown，不要丢行。
+请根据给定资料写 vendor_risk_summary.md。资料 A：供应商称平均响应时间 48 小时，但未提供 SLA。资料 B：试点团队说最近两次工单超过 72 小时。资料 C：安全问卷只写了“加密传输”，没有列出认证。请只基于这些资料总结风险，明确写出信息缺口。
 
 ## Available Input Files
 
@@ -20,7 +20,7 @@ Files that must not be modified or exposed:
 
 ## Expected Output Filenames
 
-- `customer_table.md`
+- `vendor_risk_summary.md`
 
 # Required Response Package
 

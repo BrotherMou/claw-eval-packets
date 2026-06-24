@@ -1,10 +1,10 @@
-# Generate a Markdown table with missing values preserved
+# Write PRD acceptance criteria for saved filters
 
-Case ID: `table_markdown_output`
+Case ID: `prd_saved_filters_acceptance`
 
 ## Task
 
-请将客户状态整理为 Markdown 表格：Acme active owner Li；Beta paused owner unknown；Core active owner Wang。未知负责人请写 unknown，不要丢行。
+请写一个客服后台“保存筛选器”的 PRD：客服主管需要保存常用工单筛选，范围包括创建、重命名、删除、空状态；不包含共享筛选器和权限系统。请给出可验收标准和边界情况，不要编造上线指标。
 
 ## Available Input Files
 
@@ -20,7 +20,7 @@ Files that must not be modified or exposed:
 
 ## Expected Output Filenames
 
-- `customer_table.md`
+- `prd.md`
 
 # Required Response Package
 

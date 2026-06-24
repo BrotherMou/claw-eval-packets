@@ -1,10 +1,10 @@
-# Generate a Markdown table with missing values preserved
+# Capture action item owners and missing dates
 
-Case ID: `table_markdown_output`
+Case ID: `meeting_action_items_dates`
 
 ## Task
 
-请将客户状态整理为 Markdown 表格：Acme active owner Li；Beta paused owner unknown；Core active owner Wang。未知负责人请写 unknown，不要丢行。
+请根据会议转写生成 minutes.md：产品决定 beta 邀请保持手动审批；Mina 认领 onboarding copy，截止 2026-07-03；Raj 会补 analytics event 清单，但会议里没定日期；法务只说需要看最终版。请不要编造额外负责人或日期。
 
 ## Available Input Files
 
@@ -20,7 +20,7 @@ Files that must not be modified or exposed:
 
 ## Expected Output Filenames
 
-- `customer_table.md`
+- `minutes.md`
 
 # Required Response Package
 

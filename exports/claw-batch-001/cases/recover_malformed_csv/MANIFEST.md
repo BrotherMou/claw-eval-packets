@@ -11,7 +11,7 @@ Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/
 
 ## Files
 
-- No input files.
+- [`inputs/workspace/raw_transactions.csv`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/recover_malformed_csv/inputs/workspace/raw_transactions.csv)
 
 ## Response
 

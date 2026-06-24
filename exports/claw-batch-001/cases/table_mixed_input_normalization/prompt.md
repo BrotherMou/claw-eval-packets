@@ -1,10 +1,15 @@
-# Generate a Markdown table with missing values preserved
+# Normalize mixed-format lead records into CSV
 
-Case ID: `table_markdown_output`
+Case ID: `table_mixed_input_normalization`
 
 ## Task
 
-请将客户状态整理为 Markdown 表格：Acme active owner Li；Beta paused owner unknown；Core active owner Wang。未知负责人请写 unknown，不要丢行。
+请把这段混合格式线索整理为 CSV 文件 leads.csv，列为 channel, owner, leads, status。缺失 owner 或 status 时填 TBD，保持 4 条记录：
+
+Web | Ada | 24 | active
+Email; ; 12 ; paused
+Events / Bo / 9 /
+Partner, Chen, 18, active
 
 ## Available Input Files
 
@@ -20,7 +25,7 @@ Files that must not be modified or exposed:
 
 ## Expected Output Filenames
 
-- `customer_table.md`
+- `leads.csv`
 
 # Required Response Package
 

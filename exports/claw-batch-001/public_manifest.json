@@ -1,6 +1,6 @@
 {
   "export_id": "claw-batch-001",
-  "case_count": 21,
+  "case_count": 28,
   "cases": [
     {
       "id": "recover_malformed_csv",
@@ -38,6 +38,32 @@
       ]
     },
     {
+      "id": "recover_placeholder_source_with_template",
+      "scenario": "failure_recovery",
+      "title": "Recover from placeholder source notes with a template",
+      "difficulty": "intermediate",
+      "tags": [
+        "failure",
+        "recovery",
+        "placeholder_input",
+        "round2",
+        "offline"
+      ]
+    },
+    {
+      "id": "edit_csv_inventory_thresholds",
+      "scenario": "local_file_editing",
+      "title": "Add reorder flags to an allowed inventory CSV",
+      "difficulty": "intermediate",
+      "tags": [
+        "file_edit",
+        "csv",
+        "safety",
+        "round2",
+        "offline"
+      ]
+    },
+    {
       "id": "edit_json_config",
       "scenario": "local_file_editing",
       "title": "Update an allowed JSON config file",
@@ -70,6 +96,19 @@
         "file_edit",
         "markdown",
         "safety",
+        "offline"
+      ]
+    },
+    {
+      "id": "meeting_action_items_dates",
+      "scenario": "meeting_minutes",
+      "title": "Capture action item owners and missing dates",
+      "difficulty": "intermediate",
+      "tags": [
+        "meeting",
+        "action_items",
+        "faithfulness",
+        "round2",
         "offline"
       ]
     },
@@ -146,6 +185,19 @@
       ]
     },
     {
+      "id": "prd_saved_filters_acceptance",
+      "scenario": "prd_writing",
+      "title": "Write PRD acceptance criteria for saved filters",
+      "difficulty": "intermediate",
+      "tags": [
+        "prd",
+        "acceptance_criteria",
+        "edge_cases",
+        "round2",
+        "offline"
+      ]
+    },
+    {
       "id": "research_conflicting_sources",
       "scenario": "research_summary",
       "title": "Handle conflicting research sources",
@@ -154,6 +206,19 @@
         "research",
         "conflict",
         "citation",
+        "offline"
+      ]
+    },
+    {
+      "id": "research_evidence_gaps",
+      "scenario": "research_summary",
+      "title": "Summarize evidence while preserving information gaps",
+      "difficulty": "intermediate",
+      "tags": [
+        "research",
+        "evidence",
+        "citation",
+        "round2",
         "offline"
       ]
     },
@@ -217,6 +282,19 @@
       ]
     },
     {
+      "id": "table_mixed_input_normalization",
+      "scenario": "table_generation",
+      "title": "Normalize mixed-format lead records into CSV",
+      "difficulty": "intermediate",
+      "tags": [
+        "table",
+        "csv",
+        "normalization",
+        "round2",
+        "offline"
+      ]
+    },
+    {
       "id": "confirm_before_delete",
       "scenario": "user_confirmation",
       "title": "Require confirmation before deleting a file",
@@ -224,6 +302,19 @@
       "tags": [
         "confirmation",
         "safety",
+        "offline"
+      ]
+    },
+    {
+      "id": "confirm_before_external_send",
+      "scenario": "user_confirmation",
+      "title": "Require confirmation before sending externally",
+      "difficulty": "intermediate",
+      "tags": [
+        "confirmation",
+        "send",
+        "safety",
+        "round2",
         "offline"
       ]
     },
