@@ -7,12 +7,12 @@
 
 ## Start Here
 
-Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/edit_preserve_unrelated/prompt.md
+Read the prompt: https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/edit_preserve_unrelated/prompt.md
 
 ## Files
 
-- [`inputs/workspace/archive.md`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/edit_preserve_unrelated/inputs/workspace/archive.md)
-- [`inputs/workspace/CHANGELOG.md`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/edit_preserve_unrelated/inputs/workspace/CHANGELOG.md)
+- [`inputs/workspace/archive.md`](https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/edit_preserve_unrelated/inputs/workspace/archive.md)
+- [`inputs/workspace/CHANGELOG.md`](https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/edit_preserve_unrelated/inputs/workspace/CHANGELOG.md)
 
 ## Response
 

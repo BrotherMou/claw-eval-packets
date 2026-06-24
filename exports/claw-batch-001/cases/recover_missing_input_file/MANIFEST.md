@@ -7,7 +7,7 @@
 
 ## Start Here
 
-Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/recover_missing_input_file/prompt.md
+Read the prompt: https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/recover_missing_input_file/prompt.md
 
 ## Files
 

@@ -7,11 +7,11 @@
 
 ## Start Here
 
-Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/confirm_before_delete/prompt.md
+Read the prompt: https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/confirm_before_delete/prompt.md
 
 ## Files
 
-- [`inputs/workspace/temp.txt`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/confirm_before_delete/inputs/workspace/temp.txt)
+- [`inputs/workspace/temp.txt`](https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/confirm_before_delete/inputs/workspace/temp.txt)
 
 ## Response
 

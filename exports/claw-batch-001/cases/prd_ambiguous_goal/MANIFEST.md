@@ -7,7 +7,7 @@
 
 ## Start Here
 
-Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/prd_ambiguous_goal/prompt.md
+Read the prompt: https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/prd_ambiguous_goal/prompt.md
 
 ## Files
 

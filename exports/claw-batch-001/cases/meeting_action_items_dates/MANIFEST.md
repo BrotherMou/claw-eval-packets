@@ -7,7 +7,7 @@
 
 ## Start Here
 
-Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/meeting_action_items_dates/prompt.md
+Read the prompt: https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/meeting_action_items_dates/prompt.md
 
 ## Files
 

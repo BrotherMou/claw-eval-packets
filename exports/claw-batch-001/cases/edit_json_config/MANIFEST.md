@@ -7,12 +7,12 @@
 
 ## Start Here
 
-Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/edit_json_config/prompt.md
+Read the prompt: https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/edit_json_config/prompt.md
 
 ## Files
 
-- [`inputs/workspace/config.json`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/edit_json_config/inputs/workspace/config.json)
-- [`inputs/workspace/secrets.example`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/edit_json_config/inputs/workspace/secrets.example)
+- [`inputs/workspace/config.json`](https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/edit_json_config/inputs/workspace/config.json)
+- [`inputs/workspace/secrets.example`](https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/edit_json_config/inputs/workspace/secrets.example)
 
 ## Response
 

@@ -7,11 +7,11 @@
 
 ## Start Here
 
-Read the prompt: https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/confirm_before_external_send/prompt.md
+Read the prompt: https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/confirm_before_external_send/prompt.md
 
 ## Files
 
-- [`inputs/workspace/draft.md`](https://raw.githubusercontent.com/BrotherMou/claw-eval-packets/main/exports/claw-batch-001/cases/confirm_before_external_send/inputs/workspace/draft.md)
+- [`inputs/workspace/draft.md`](https://raw.githubusercontent.com/your-github-name/your-repo/main/exports/claw-batch-001/cases/confirm_before_external_send/inputs/workspace/draft.md)
 
 ## Response
 
